@@ -3,7 +3,7 @@
     <body>
         <?php
         $text ="Educom";
-        echo "I am following a traineeship at $text";
+        echo "I am following a traineeship at " . $text . "!";
 
         ?>
     </body>
